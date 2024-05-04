@@ -4,3 +4,4 @@ resolusi mei 2024 :
 - membuat website portofolio
 - membuat CV kerja 
 - membuat buku
+- nilai uts 100
